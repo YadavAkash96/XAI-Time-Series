@@ -69,7 +69,7 @@ Both techniques reveal distinct temporal focus areas, enabling interpretability 
 The performance table shows a comprehensive comparison of deep learning models across tools, loss functions, and XAI strategies, with AT-LSTM showing strong results.
 
 <p align="center">
-  <img width="1047" height="283" alt="Model Performance Table" src="https://github.com/user-attachments/assets/9f518ecf-28fa-4000-9405-ffc74869717d" />
+  <img width="1054" height="283" alt="image" src="https://github.com/user-attachments/assets/57431f16-9e5c-4935-8355-7a1f4a322f19" />
 </p>
 
 ### Conclusion:
