@@ -29,8 +29,10 @@ how-to-load-the-data.ipynb
 
 4. Finally, Run AT_LSTM.ipynb
 
+### Architecture of AT-LTSM
 
-   
+<img width="580" height="635" align="center" alt="image" src="https://github.com/user-attachments/assets/27d1110d-d4ef-4645-99bc-6a5472346e9e" />
+ 
 
 ## License:
   
